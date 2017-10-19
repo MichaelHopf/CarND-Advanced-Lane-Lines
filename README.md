@@ -39,7 +39,7 @@ The goals / steps of this project are the following:
 
 ### Writeup / README
 
-All of my code can be found in my IPython notebook in "./Write up.ipynb" . In the following, I will consider all rubric points.
+All of my code can be found in my IPython notebook in "./My Project 3.ipynb" . In the following, I will consider all rubric points.
 
 ### Camera Calibration
 
