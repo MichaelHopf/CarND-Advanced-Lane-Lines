@@ -1,5 +1,5 @@
 
-## Writeup Template
+## Writeup
 
 ---
 
