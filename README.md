@@ -93,7 +93,7 @@ upper_left  | 580, 460      | 300, 0        |
 
 In the first frame, I used the sliding window technique given in the lecture. Then, I fitted a second order poylnomial to the lane lines.
 
-For the following frames, I fitted a second order polynomial through the feature map pixels that were close to the previous fitted line. Therefore I constructed two 'safe lines' for each lane and only considered the area inbetween them (see picture below). Also, I averaged the parameters of the polynomial to obtain smoother results.
+For the following frames, I fitted a second order polynomial through the feature map pixels that were close to the previous fitted line. Therefore I constructed two 'safe lines' for each lane and only considered the area between them (see picture below). Also, I averaged the parameters of the polynomial to obtain smoother results.
 
 If the feature map did not work well, it did not apply any changes to the previous parameters.
 
