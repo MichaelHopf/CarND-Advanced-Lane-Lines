@@ -22,7 +22,7 @@ The goals / steps of this project are the following:
 [image2]: ./Pictures/undistorted_lane.PNG "Road Transformed"
 [image3]: ./Pictures/both_feats0.PNG "Feature Map 1"
 [image3b]: ./Pictures/both_feats1.PNG "Feature Map 1"
-[image3c]: ./Pictures/Number_of_features.PNG "Feature Map 1"
+[image3c]: ./Pictures/Number_of_Features.PNG "Feature Map 1"
 [image4]: ./Pictures/perspective_transform.PNG "Warp Example"
 [image6]: ./Pictures/complete.PNG "Output"
 [video1]: ./solution_project.mp4 "Video"
